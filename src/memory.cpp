@@ -1,6 +1,9 @@
 #include "memory.h"
 #include <cstring>
 #include <vector>
+#include <array>
+#include <cstdint>
+#include <vector>
 
 const std::array<uint8_t, 80> Memory::fontset = {
     0xF0, 0x90, 0x90, 0x90, 0xF0, // 0
