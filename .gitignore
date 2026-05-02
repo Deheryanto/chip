@@ -1,0 +1,16 @@
+# Build directory
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compilation database
+compile_commands.json
+
+# Executables
+chip8
+
+# OS files
+.DS_Store
+Thumbs.db
